@@ -1,3 +1,2 @@
-bot_token = "6345804785:AAEog4t7HkoR8SnKBuNqRwlKV4zxgcXFiXw"
-
-admin_ids = [1944279581]
+bot_token = "" # Telegram bot token from @botfather
+admin_ids = [] # List of admins which can monitor the bot.
