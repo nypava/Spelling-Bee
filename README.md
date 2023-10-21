@@ -12,7 +12,7 @@ You can install pip3 using [this](https://www.makeuseof.com/tag/install-pip-for-
 ```
 pip install -r requirements.txt
 ```
-**Linux**
+**Linux(debian)**
 ```
 sudo apt-get update
 sudo apt-get install python3-tk
@@ -37,11 +37,18 @@ OR
 send /reset command to the bot.
 
 ## Customization
-### Customization 
+### Customization of text sent to players in bot
+You can change bot text on [data/text.json](/data/text.json).
+
+### Customization of names given to players
+You can change names on [data/text.json](/data/name.json).
+
+### Customization of letters (spellings)
+You can change spellings on [data/text.json](/data/name.json), the first letter of the list is central letter.
 ## Game Rules
 
 * All letters that you form must be in the list of letters.
-* The word that you form must include the colored (main) letter.
+* The word that you form must include the center letter.
 * The length of the word must be at least 4.
 * Letters can be used more than once.
 * Points increase as the length of your word increases.
