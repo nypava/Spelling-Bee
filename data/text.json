@@ -1,0 +1,18 @@
+{
+    "new_start":"*Hey* 👋, Your Group name is `{}`, wait until the game is started!",
+    "already_joined":"⚠️ _You have already joined. Please wait until the game starts!_",
+    "start_messages":"⚠️ _Please wait until the game has started!_",
+    "already_started":"⚠️ _You haven't joined, and the game has already started._",
+    "game_started":"*🧩 The game has started! You can now send your words based on the given spellings.*",
+    "round_changed":"*🔡 Spellings has changed!*",
+    "must_four":"⚠️ _Your word must contain atleast 4 letters_",
+    "incorrect":"❌ Ops! Incorrect Spelling. Try again.",
+    "inappropriate":"⚠️ _Make sure to use letters from the given spellings._",
+    "one_point":"✅ Your word is correct. You have earned *1 point*.",
+    "three_point":"✅ Your word is correct. You have earned *3 points*.",
+    "five_point":"✅ Your word is correct. You have earned *5 points*.",
+    "seven_point":"✅ Your word is correct. You have earned *7 points*.",
+    "scored_word":"⚠️ _You already said it._",
+    "final_msg":"⚠️ _The game has finished._ \n\n*👋 See you next time!* ",
+    "central_error":"_⚠️ You must use central letter!_"
+}
